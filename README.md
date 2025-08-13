@@ -2,7 +2,12 @@
 <html>
   <head>
   </head>
+  <style>
+    #abc{
+      color:red;
+      }
+  </style>
   <body>
-<h1>Hello World</h1>
+<div id="abc"><h1>Hello World</h1></div>
   </body>
 </html>
